@@ -1,10 +1,30 @@
 position,person,personID,start,end
 monarch,Elizabeth II,Q9682,1979-10-27,2022-09-08
 monarch,Charles III,Q43274,2022-09-08,
+Governor-General,Charles Antrobus,Q3560964,1996-06-01,2002-06-03
 Governor-General,Monica Dacon,Q6899931,2002-06-03,2002-09-02
-Governor-General,Frederick Ballantyne,Q354705,2002-09-02,2020-01-23
+Governor-General,Frederick Ballantyne,Q354705,2002-09-02,2019-08-01
+Governor-General,Susan Dougan,Q66088003,2019-08-01,
 Prime Minister,James Fitz-Allen Mitchell,Q1281056,1984-07-30,2000-10-27
+Prime Minister,Arnhim Eustace,Q1268324,2000-10-27,2001-03-29
 Prime Minister,Ralph Gonsalves,Q57800,2001-03-28,
+Deputy Prime Minister,Girlyn Miguel,Q86713407,2010-12-14,2015-12-09
+Deputy Prime Minister,Louis Straker,Q58248,2015-12-10,2020-11-07
+Deputy Prime Minister,Montgomery Daniel,Q101693621,2020-12-07,
+Minister of Agriculture,Saboto Caesar,Q42386929,2020-11-10,
+Minister of Education and National Reconciliation,Curtis King,Q114739574,2020-11-10,
+Minister of Finance,Camillo Gonsalves,Q5026702,2020-11-10,
 Minister of Foreign Affairs,Allan Cruickshank,Q108461902,1998,2001
 Minister of Foreign Affairs,Mike Browne,Q108461903,2005,2005
 Minister of Foreign Affairs,Douglas Slater,Q108461905,2010,2013
+Minister of Foreign Affairs,Ralph Gonsalves,Q57800,2020-11-10,
+Minister of Health,St. Clair Prince,Q28382039,2020-11-10,
+Minister of Information,Ralph Gonsalves,Q57800,2020-11-10,
+Minister of Legal Affairs,Ralph Gonsalves,Q57800,2020-11-10,
+Minister of National Mobilization,Orando Brewster,Q114739577,2020-11-10,
+Minister of National Security,Ralph Gonsalves,Q57800,2020-11-10,
+Minister of Public Service,Frederick Stephenson,Q114739575,2020-11-10,
+Minister of Tourism,Carlos James,Q28382042,2020-11-10,
+Minister of Transport,Montgomery Daniel,Q101693621,2020-11-10,
+Minister of Urban Development,Julian Francis,Q114739576,2020-11-10,
+Attorney General,Jaundy Martin,Q114740002,2017-09-18,
