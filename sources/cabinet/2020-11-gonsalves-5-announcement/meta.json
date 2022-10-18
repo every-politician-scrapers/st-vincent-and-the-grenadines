@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Saint Vincent and the Grenadines",
+        "id": "Q757"
+    },
+    "cabinet": {
+        "id":     "Q114738487",
+        "start":  "2020-11-10",
+        "parent": "Q113758147"
+    },
+    "reference": {
+        "P854":   "https://onenewsstvincent.com/2020/11/10/new-members-of-cabinet-in-svg/",
+        "P577":   "2020-11-10",
+        "P1476": {
+            "text": "New Members of Cabinet in SVG",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in St Vincent and the Grenadines"
+    }
+}
