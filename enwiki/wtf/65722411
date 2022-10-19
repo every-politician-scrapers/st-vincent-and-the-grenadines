@@ -1,0 +1,203 @@
+{
+  "title": "Montgomery Daniel",
+  "pageID": 65722411,
+  "categories": [
+    "Living people",
+    "1954 births",
+    "Political office-holders in Saint Vincent and the Grenadines",
+    "Unity Labour Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Montgomery Daniel (born 1954) is a Vincentian politician.",
+              "links": [
+                {
+                  "text": "Vincentian",
+                  "type": "internal",
+                  "page": "Demographics of Saint Vincent and the Grenadines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Montgomery Daniel"
+                ]
+              }
+            },
+            {
+              "text": "Montgomery is also the Unity Labour Party North Windward candidate for 2020 Vincentian general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Unity Labour Party"
+                },
+                {
+                  "text": "2020 Vincentian general election",
+                  "type": "internal",
+                  "page": "2020 Vincentian general election"
+                }
+              ]
+            },
+            {
+              "text": "He has been elected as the Member of Parliament for the constituency of North Windward in the House of Assembly of Saint Vincent and the Grenadines since 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "constituency",
+                  "type": "internal",
+                  "page": "Electoral district"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Assembly of Saint Vincent and the Grenadines"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Montgomery Daniel"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Montgomery Daniel (cropped).jpg"
+          },
+          "caption": {
+            "text": "Daniel in 2016"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of St. Vincent and the Grenadines"
+          },
+          "primeminister": {
+            "text": "Ralph Gonsalves",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ralph Gonsalves"
+              }
+            ]
+          },
+          "governor_general": {
+            "text": "Susan Dougan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan Dougan"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Louis Straker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Louis Straker"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 December 2020"
+          },
+          "office2": {
+            "text": "Member of House of Assembly of Saint Vincent and the Grenadines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "House of Assembly of Saint Vincent and the Grenadines"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 March 2001"
+          },
+          "constituency2": {
+            "text": "North Windward"
+          },
+          "party": {
+            "text": "Unity Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Unity Labour Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Montgomery DANIEL personal appointments",
+          "url": "https://find-and-update.company-information.service.gov.uk/officers/oyovUaNnIbseHesvYDfWb2GDCaI/appointments",
+          "access-date": "2022-09-07",
+          "website": "find-and-update.company-information.service.gov.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nomination Day in SVG.",
+          "url": "https://news784.com/local-news/election-2020-today-is-nomination-day-in-svg/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "About Government of Saint Vincent and the Grenadines.",
+          "url": "https://www.gov.vc/index.php/hon-montgomery-daniel",
+          "website": "Government of Saint Vincent and the Grenadines Website",
+          "accessdate": "30 October 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "St Vincent and the Grenadines General Election Results 2015",
+          "url": "http://www.caribbeanelections.com/vc/elections/vc_results_2015.asp",
+          "website": "Caribbean Elections",
+          "accessdate": "30 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "saintvincent-bio-stub"
+        }
+      ]
+    }
+  ]
+}

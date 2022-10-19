@@ -1,0 +1,438 @@
+{
+  "title": "Susan Dougan",
+  "pageID": 61423459,
+  "categories": [
+    "1955 births",
+    "Governors-General of Saint Vincent and the Grenadines",
+    "Officers of the Order of the British Empire",
+    "Dames Grand Cross of the Order of St Michael and St George",
+    "Living people",
+    "Saint Vincent and the Grenadines women",
+    "Saint Vincent and the Grenadines women in politics"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dame Susan Dilys Dougan ( Ryan; born 3 March 1955) is the Governor-General of Saint Vincent and the Grenadines since 1 August 2019.",
+              "links": [
+                {
+                  "text": "Governor-General",
+                  "type": "internal",
+                  "page": "Governor-General of Saint Vincent and the Grenadines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saint Vincent and the Grenadines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dame Susan Dilys Dougan",
+                  "Ryan"
+                ]
+              }
+            },
+            {
+              "text": "She is the first woman to hold the office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed Dame Grand Cross of the Order of St Michael and St George on 29 January 2020 and was appointed an Officer of the Order of the British Empire in the Queen's 2010 Birthday Honour List for services to education and",
+              "links": [
+                {
+                  "text": "Dame Grand Cross of the Order of St Michael and St George",
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                },
+                {
+                  "text": "Queen's 2010 Birthday Honour List",
+                  "type": "internal",
+                  "page": "2010 Birthday Honours",
+                  "anchor": "Officer of the Order of the British Empire (OBE) 8"
+                }
+              ]
+            },
+            {
+              "text": "to public administration."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Governor-General of Saint Vincent and the Grenadines",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "GCMG",
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1955",
+          "month": "3",
+          "day": "3",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "GCMG",
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "template": "née"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Her Excellency Dame",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "Dame"
+              }
+            ]
+          },
+          "name": {
+            "text": "Susan Dougan"
+          },
+          "image": {
+            "text": "Susan Dougan 2019.jpg"
+          },
+          "caption": {
+            "text": "Dougan in 2019"
+          },
+          "office": {
+            "text": "Governor-General of Saint Vincent and the Grenadines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor-General of Saint Vincent and the Grenadines"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II Charles III",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              },
+              {
+                "type": "internal",
+                "page": "Charles III"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Ralph Gonsalves",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ralph Gonsalves"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 August 2019"
+          },
+          "predecessor": {
+            "text": "Frederick Ballantyne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frederick Ballantyne"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Susan Dilys Ryan"
+          },
+          "birth_date": {
+            "text": "March 3, 1955"
+          },
+          "birth_place": {
+            "text": "Colonarie, Saint Vincent, British Windward Islands\n(Now Saint Vincent and the Grenadines)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonarie"
+              },
+              {
+                "text": "Saint Vincent",
+                "type": "internal",
+                "page": "Saint Vincent (Antilles)"
+              },
+              {
+                "type": "internal",
+                "page": "British Windward Islands"
+              },
+              {
+                "type": "internal",
+                "page": "Saint Vincent and the Grenadines"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Hugh Dougan"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of London\nUniversity of Southampton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of London"
+              },
+              {
+                "type": "internal",
+                "page": "University of Southampton"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Saint Vincent and the Grenadines",
+          "url": "https://www.worldstatesmen.org/Saint_Vincent.html",
+          "access-date": "2020-06-24",
+          "website": "www.worldstatesmen.org",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.vc/index.php/home/governor-general",
+          "title": "Governor General",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.caribbeannationalweekly.com/caribbean-breaking-news-featured/st-vincent-and-the-grenadines-gets-first-female-governor-general/",
+          "title": "St. Vincent and the Grenadines Gets First Female Governor-General",
+          "first": "Sheri-Kae",
+          "last": "McLeod",
+          "website": "Caribbeannationalweekly.com",
+          "date": "August 1, 2019",
+          "accessdate": "23 August 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://barbadostoday.bb/2019/08/01/st-vincent-and-the-grenadines-has-first-female-governor-general",
+          "title": "St Vincent and the Grenadines has first female Governor General",
+          "date": "1 August 2019",
+          "website": "Barbadostoday.bb",
+          "accessdate": "23 August 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "CENTRAL CHANCERY OF THE ORDERS OF KNIGHTHOOD",
+          "url": "https://www.thegazette.co.uk/notice/3539156",
+          "url-status": "live",
+          "access-date": "24 June 2020",
+          "website": "thegazette.co.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thegazette.co.uk/London/issue/59453/supplement/43",
+          "title": "Page 43 &#124; Supplement 59453, 12 June 2010 &#124; London Gazette &#124; the Gazette",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.gov.vc/index.php/home/governor-general",
+          "title": "Governor General",
+          "publisher": "Government of Saint Vincent and the Grenadines",
+          "accessdate": "2020-05-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://searchlight.vc/searchlight/breaking-news/2019/08/01/svgs-first-female-head-of-state-sworn-in",
+          "title": "SVG's First Female Head of State Sworn In",
+          "website": "Searchlight.vc",
+          "date": "1 August 2019",
+          "accessdate": "23 August 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Dilys Dougan was born in the village of Colonarie in Saint Vincent."
+            },
+            {
+              "text": "She holds a MA (ED) in Curriculum and Evaluation from the University of Southampton, Hampshire, England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Southampton"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hampshire, England"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dame Susan Dougan began her career as a non-graduate teacher."
+            },
+            {
+              "text": "Over a 34-year career, Dame Susan rose through the ranks of the teaching service to Headmistress of the St. Vincent Girls High School (2001-2004), and later served as Chief Education Officer from 2004 to 2009.",
+              "links": [
+                {
+                  "text": "St. Vincent Girls High School",
+                  "type": "internal",
+                  "page": "St. Vincent Girls' High School"
+                }
+              ]
+            },
+            {
+              "text": "She also served as Cabinet Secretary from October 2009 to September 2013."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dame Susan has also served in several other national capacities such as Representative to the Organization of American States for St. Vincent and the Grenadines, Representative to the Commonwealth of Learning for St. Vincent and the Grenadines, and Chief Shelter Manager for St. Vincent and the Grenadines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organization of American States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Commonwealth of Learning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed as the Governor-General's Deputy in December 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor-General's Deputy"
+                }
+              ]
+            },
+            {
+              "text": "Dame Susan was sworn in as the first female Governor-General of St. Vincent and the Grenadines on 1 August 2019."
+            },
+            {
+              "text": "She was administered the oaths of Office and Allegiance by High Court Justice Brian Cottle during a ceremony witnessed by state officials as well as relatives, friends, and the media.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brian Cottle"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "About Susan Dougan",
+          "url": "http://www.caribbeanelections.com/knowledge/biography/bios/dougan_susan.asp",
+          "website": "Caribbean Elections",
+          "accessdate": "26 October 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "SVG gets first female Governor-General on Aug. 1",
+          "url": "https://www.iwnsvg.com/2019/07/21/svg-gets-first-female-governor-general-on-aug-1/",
+          "accessdate": "26 October 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Frederick Ballantyne",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor-General of Saint Vincent and the Grenadines",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

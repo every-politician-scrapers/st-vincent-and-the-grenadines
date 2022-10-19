@@ -1,0 +1,236 @@
+{
+  "title": "Saboto Caesar",
+  "pageID": 55655450,
+  "categories": [
+    "Living people",
+    "Saint Vincent and the Grenadines lawyers",
+    "Members of the House of Assembly of Saint Vincent and the Grenadines",
+    "1980 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Saboto Caesar is a Vincentian politician and lawyer.",
+              "links": [
+                {
+                  "text": "Vincentian",
+                  "type": "internal",
+                  "page": "Saint Vincent and the Grenadines"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Saboto Caesar"
+                ]
+              }
+            },
+            {
+              "text": "Saboto is also an elected member of the cabinet and minister of agriculture for St Vincent and the Grenadines Saboto is also the Unity Labour Party South Central Windward candidate for 2020 Vincentian general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Vincent and the Grenadines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Unity Labour Party"
+                },
+                {
+                  "text": "2020 Vincentian general election",
+                  "type": "internal",
+                  "page": "2020 Vincentian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Vincentian politician and lawyer",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Saboto Caesar"
+          },
+          "caption": {
+            "text": "Caesar in 2022"
+          },
+          "order": {
+            "text": "Politician"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor_general": {
+            "text": "Susan Dougan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan Dougan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Party Member of Saint Vincent and the Grenadines Green Party Unity Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Vincent and the Grenadines Green Party"
+              },
+              {
+                "type": "internal",
+                "page": "Unity Labour Party"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Saint Vincent and the Grenadines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saint Vincent and the Grenadines"
+              }
+            ]
+          },
+          "party": {
+            "text": "Unity Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Unity Labour Party"
+              }
+            ]
+          },
+          "image": {
+            "text": "Saboto Caesar (cropped).jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.caribbeanelections.com/knowledge/biography/bios/caesar_saboto.asp",
+          "title": "Caribbean Elections Biography &#124; Saboto Caesar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nomination Day in SVG.",
+          "url": "https://news784.com/local-news/election-2020-today-is-nomination-day-in-svg/",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Saboto Scofield Caesar born 21 December 1980 was grown up in Diamonds Village, St Vincent and the Grenadines.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Vincent and the Grenadines"
+                }
+              ]
+            },
+            {
+              "text": "He attended the St Martin Secondary School and St Vincent Community College then further high studies at the University of London where he studied law."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gov.vc/index.php/hon-saboto-caesar",
+          "title": "Hon. Saboto Caesar",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In St Vincent and the Grenadines 2010 election Saboto faced the elections for the first time and was elected to the cabinet for winning with 57.0% of the votes in his constituency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Vincent and the Grenadines"
+                },
+                {
+                  "text": "2010 election",
+                  "type": "internal",
+                  "page": "2010 Vincentian general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In St Vincent and the Grenadines 2015 election Saboto was once again elected as cabinet member after winning with 56.69℅ of votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Vincent and the Grenadines"
+                },
+                {
+                  "text": "2015 election",
+                  "type": "internal",
+                  "page": "2015 Vincentian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.caribbeanelections.com/vc/constituencies/SC.asp",
+          "title": "St. Vincent and the Grenadines Election 2015 &#124; South Central Windward",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.caribbeanelections.com/vc/candidates_2015/default.asp",
+          "title": "St. Vincent and the Grenadines Election 2015 &#124; Candidates",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
