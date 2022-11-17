@@ -1,0 +1,25 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q101693621,Montgomery Daniel,,,,,,false,,,,
+Q108461902,Allan Cruickshank,,,,,,false,,,,
+Q108461903,Mike Browne,,,,,,false,,,,
+Q108461905,Douglas Slater,,,,,,false,,,,
+Q114739574,Curtis King,,,,,,false,,,,
+Q114739575,Frederick Stephenson,,,,,,false,,,,
+Q114739576,Julian Francis,,,,,,false,,,,
+Q114739577,Orando Brewster,,,,,,false,,,,
+Q114740002,Jaundy Martin,,,,,,false,,,,
+Q1268324,Arnhim Eustace,NormalRank,Q2660774,British Windward Islands,true,false,true,false,false,true,true
+Q1281056,James Fitz-Allen Mitchell,NormalRank,Q257857,Bequia,true,true,true,false,false,false,true
+Q28382039,St. Clair Prince,,,,,,false,,,,
+Q28382042,Carlos James,,,,,,false,,,,
+Q354705,Frederick Ballantyne,NormalRank,Q2630835,Layou,true,true,false,,,,
+Q3560964,Charles Antrobus,NormalRank,Q379656,Saint Vincent,true,false,true,false,false,false,true
+Q42386929,Saboto Caesar,NormalRank,Q757,Saint Vincent and the Grenadines,true,false,true,false,false,true,true
+Q5026702,Camillo Gonsalves,NormalRank,Q1345,Philadelphia,true,true,true,false,false,false,true
+Q66088003,Susan Dougan,NormalRank,Q4490329,Colonarie,true,true,true,false,true,false,false
+Q6899931,Monica Dacon,NormalRank,Q2660774,British Windward Islands,true,false,true,false,false,true,true
+Q86713407,Girlyn Miguel,,,,,,false,,,,
+Q43274,Charles III,NormalRank,Q42182,Buckingham Palace,true,true,true,false,true,false,false
+Q57800,Ralph Gonsalves,NormalRank,Q4490329,Colonarie,true,true,false,,,,
+Q58248,Louis Straker,NormalRank,Q2630835,Layou,true,true,true,false,false,true,true
+Q9682,Elizabeth II,NormalRank,Q124184,Mayfair,true,true,true,false,true,false,false
