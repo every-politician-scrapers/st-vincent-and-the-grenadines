@@ -14,7 +14,13 @@ class MemberList
         'Minister of National Security',
         'Minister of Legal Affairs',
         'Minister of Grenadines Affairs'
-      ]
+      ],
+      'Minister of National Security, Legal Affairs and Information.' =>
+      [
+        'Minister of National Security',
+        'Minister of Legal Affairs',
+        'Minister of Information',
+      ],
     }
 
     field :name do
