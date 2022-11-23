@@ -1,7 +1,8 @@
 {
   "name": "Saboto Caesar",
-  "order": "Politician",
+  "order": "Appointer(s)",
   "governor_general": "Susan Dougan",
-  "office1": "Party Member of Saint Vincent and the Grenadines Green Party Unity Labour Party",
+  "birth_date": "21 December 1980 (age 41)",
   "party": "Unity Labour Party",
+  "spouse": "Dr. Reisha Twanna Caesar",
 }
