@@ -98,7 +98,7 @@
             ]
           },
           "birth_date": {
-            "text": "21 December 1980 (age 41)"
+            "text": "21 December 1980 (age 42)"
           },
           "birth_place": {
             "text": "Diamonds Village, Charlotte Parish, \n                            Saint Vincent and the Grenadines",
@@ -182,10 +182,10 @@
               "text": "After completing his secondary education, he went on to the Saint Vincent and the Grenadines community college (SVGCC)."
             },
             {
-              "text": "In his quest to obtain a successful career in the legal profession."
+              "text": "In his quest to obtain a career in the legal profession."
             },
             {
-              "text": "Caesar decided to travel to London when he studied and completed a course in civil law at the University of London.",
+              "text": "Caesar travelled to London where he studied and completed a course in civil law at the University of London.",
               "links": [
                 {
                   "type": "internal",
