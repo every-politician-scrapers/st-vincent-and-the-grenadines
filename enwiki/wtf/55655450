@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Saboto Scofield Caesar (born 21 December 1980) also known by his nickname \"Savy\" is a Vincentian politician and lawyer.",
+              "text": "Saboto Scofield Caesar is a Vincentian politician and lawyer.",
               "links": [
                 {
                   "text": "Vincentian",
@@ -25,36 +25,25 @@
               ],
               "formatting": {
                 "bold": [
-                  "Saboto Scofield Caesar (",
-                  "Savy\""
+                  "Saboto Scofield Caesar"
                 ]
               }
             },
             {
-              "text": "He is an elected member of parliament and minister of agriculture for St. Vincent and the Grenadines Caesar is also the Unity Labour Party representative for South Central Windward.",
+              "text": "He is also an elected member of the cabinet and minister of agriculture for St Vincent and the Grenadines Saboto is also the Unity Labour Party South Central Windward candidate for 2020 Vincentian general election.",
               "links": [
                 {
-                  "text": "St. Vincent and the Grenadines",
                   "type": "internal",
                   "page": "St Vincent and the Grenadines"
                 },
                 {
                   "type": "internal",
                   "page": "Unity Labour Party"
-                }
-              ]
-            },
-            {
-              "text": "Successfully winning his seat in all three consecutive general elections since his first appointment in Parliament.",
-              "links": [
-                {
-                  "text": "general elections",
-                  "type": "internal",
-                  "page": "General election"
                 },
                 {
+                  "text": "2020 Vincentian general election",
                   "type": "internal",
-                  "page": "Parliament"
+                  "page": "2020 Vincentian general election"
                 }
               ]
             }
@@ -66,6 +55,14 @@
           "description": "Vincentian politician and lawyer",
           "bot": "PearBOT 5",
           "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1980,
+            "month": 12,
+            "date": 21
+          }
         }
       ],
       "infoboxes": [
@@ -77,14 +74,14 @@
             "text": "Caesar in 2022"
           },
           "order": {
-            "text": "Appointer(s)"
+            "text": "Politician"
           },
           "monarch": {
-            "text": "Charles III",
+            "text": "Elizabeth II",
             "links": [
               {
                 "type": "internal",
-                "page": "Charles III"
+                "page": "Elizabeth II"
               }
             ]
           },
@@ -97,16 +94,25 @@
               }
             ]
           },
-          "birth_date": {
-            "text": "21 December 1980 (age 42)"
-          },
-          "birth_place": {
-            "text": "Diamonds Village, Charlotte Parish, \n                            Saint Vincent and the Grenadines",
+          "office1": {
+            "text": "Party Member of Saint Vincent and the Grenadines Green Party Unity Labour Party",
             "links": [
               {
                 "type": "internal",
-                "page": "Diamonds Village, Charlotte Parish,"
+                "page": "Saint Vincent and the Grenadines Green Party"
               },
+              {
+                "type": "internal",
+                "page": "Unity Labour Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "21 December 1980"
+          },
+          "birth_place": {
+            "text": "Diamonds Village, Saint Vincent and the Grenadines",
+            "links": [
               {
                 "type": "internal",
                 "page": "Saint Vincent and the Grenadines"
@@ -122,9 +128,6 @@
               }
             ]
           },
-          "spouse": {
-            "text": "Dr. Reisha Twanna Caesar"
-          },
           "image": {
             "text": "Saboto Caesar (cropped).jpg"
           }
@@ -136,6 +139,12 @@
           "title": "Caribbean Elections Biography &#124; Saboto Caesar",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Nomination Day in SVG.",
+          "url": "https://news784.com/local-news/election-2020-today-is-nomination-day-in-svg/",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -146,73 +155,26 @@
         {
           "sentences": [
             {
-              "text": "Saboto Scofield Caesar was born on the 21 December 1980, in the rural area of Diamond village within Charlotte parish on the windward side of Saint Vincent and the Grenadines.",
+              "text": "Saboto Scofield Caesar born 21 December 1980 was grown up in Diamonds Village, St Vincent and the Grenadines.",
               "links": [
                 {
-                  "text": "rural area",
                   "type": "internal",
-                  "page": "rural area"
-                },
-                {
-                  "text": "Diamond village",
-                  "type": "internal",
-                  "page": "Diamond Village, Saint Vincent and the Grenadines"
-                },
-                {
-                  "text": "Charlotte parish",
-                  "type": "internal",
-                  "page": "Charlotte Parish, Saint Vincent and the Grenadines"
-                },
-                {
-                  "type": "internal",
-                  "page": "Saint Vincent and the Grenadines"
+                  "page": "St Vincent and the Grenadines"
                 }
               ]
             },
             {
-              "text": "He attended the St. Martin's secondary school, an all boys school within the capital city of Kingstown.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kingstown"
-                }
-              ]
-            },
-            {
-              "text": "After completing his secondary education, he went on to the Saint Vincent and the Grenadines community college (SVGCC)."
-            },
-            {
-              "text": "In his quest to obtain a career in the legal profession."
-            },
-            {
-              "text": "Caesar travelled to London where he studied and completed a course in civil law at the University of London.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "London"
-                },
-                {
-                  "text": "civil law",
-                  "type": "internal",
-                  "page": "Civil law (legal system)"
-                },
-                {
-                  "type": "internal",
-                  "page": "University"
-                }
-              ]
-            },
-            {
-              "text": "Thereby fulfilling his dream of becoming a lawyer.",
-              "links": [
-                {
-                  "text": "lawyer",
-                  "type": "internal",
-                  "page": "lawyer"
-                }
-              ]
+              "text": "He attended the St Martin Secondary School and St Vincent Community College then further high studies at the University of London where he studied law."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gov.vc/index.php/hon-saboto-caesar",
+          "title": "Hon. Saboto Caesar",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
