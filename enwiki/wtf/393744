@@ -149,10 +149,6 @@
           "template": "short description"
         },
         {
-          "date": "August 2022",
-          "template": "cleanup bare urls"
-        },
-        {
           "date": "November 2020",
           "template": "use dmy dates"
         },
@@ -460,10 +456,12 @@
       ],
       "references": [
         {
+          "url": "http://www.thebahamasweekly.com/publish/bis-news-updates/PM_leads_ministerial_delegation_to_CARICOM_Heads_meetings35745.shtml",
+          "title": "PM leads ministerial delegation to CARICOM Heads meetings",
+          "publisher": "thebahamasweekly.com",
+          "accessdate": "2023-01-08",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "date": "2020-11-06",
@@ -1082,7 +1080,7 @@
             ]
           },
           {
-            "text": "TWN_Order_of_Brilliant_Star_1Class_BAR.svg Order of Brilliant Star with Special Grand Cordon (2003)",
+            "text": "TWN Order of Brilliant Star 1Class BAR.svg Order of Brilliant Star with Special Grand Cordon (2003)",
             "links": [
               {
                 "type": "internal",
